@@ -1,0 +1,7 @@
+## 使用方法
+- sh autogen.sh 
+- ./configure
+- make
+- make install
+- /usr/local/bin/test
+>  This is a test Programs.
