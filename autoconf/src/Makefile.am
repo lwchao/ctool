@@ -1,0 +1,7 @@
+AM_CFLAGS=@CFLAGS@ -D_GNU_SOURCE -D_LGPL_SOURCE
+#INCLUDES= -I${top_srcdir}/src/
+bin_PROGRAMS=test
+test_DEPENDENCIES=
+test_LDADD=
+test_SOURCES=test.c
+test_LDFLAGS=
